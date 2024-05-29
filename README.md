@@ -21,8 +21,8 @@ The Certbot Helper Script is a convenient tool designed to streamline the proces
 
 1. Clone this repository to your server:
    ```sh
-   git clone https://github.com/VeloxityNL/certbot-helper-script.git
-   cd certbot-helper-script
+   git clone https://github.com/VeloxityNL/certbot-helper.git
+   cd certbot-helper
    ```
 
 2. Make the script executable:
