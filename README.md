@@ -21,7 +21,7 @@ The Certbot Helper Script is a convenient tool designed to streamline the proces
 
 1. Clone this repository to your server:
    ```sh
-   git clone https://github.com/yourusername/certbot-helper-script.git
+   git clone https://github.com/VeloxityNL/certbot-helper-script.git
    cd certbot-helper-script
    ```
 
@@ -51,7 +51,7 @@ The Certbot Helper Script is a convenient tool designed to streamline the proces
 
 ## Example
 
-```sh
+```
 sudo ./certbot-helper.sh
 
 Which web server are you using? (apache/nginx)
@@ -79,6 +79,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 For any questions or support, please open an issue in the repository.
 
----
-
-Replace the placeholder URL (`https://github.com/yourusername/certbot-helper-script.git`) with the actual URL of your GitHub repository. This README provides a comprehensive overview of the script, including installation, usage, troubleshooting, and contribution guidelines.
