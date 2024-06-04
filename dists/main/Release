@@ -1,0 +1,7 @@
+Origin: Certbot Helper Repository
+Label: Certbot Helper
+Codename: main
+Date: Tue, 04 Jun 2024 12:00:00 +0000
+Architectures: amd64
+Components: main
+Description: APT repository for Certbot Helper package, automating SSL/TLS certificate management for Apache and Nginx web servers.
