@@ -1,0 +1,8 @@
+Package: cb-helper
+Version: 1.0
+Architecture: amd64
+Maintainer: Wesley Vaartsra <wesley@devwesley.nl>
+Installed-Size: 1024
+Depends: python3, certbot
+Description: A helper tool for managing Let's Encrypt SSL certificates with Certbot
+ cb-helper is a command-line tool that simplifies the process of obtaining and managing Let's Encrypt SSL certificates using Certbot.
